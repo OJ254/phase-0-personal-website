@@ -77,7 +77,7 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 0px 0px;
-  padding: 0px 100px;
+  padding: 200px 100px;
 }
 
 #hero-text {
@@ -125,18 +125,6 @@ button {
 
 #hero-text button:hover a {
   color: white;
-}
-
-#hero-image {
-  background-image: url("./headshot.png");
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  padding-bottom: 40px;
-  display: flex;
-  justify-content: end;
-  align-items: end;
 }
 
 .social-media a {
