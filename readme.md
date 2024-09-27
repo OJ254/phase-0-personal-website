@@ -6,11 +6,11 @@ _Submitted as partial completion of the Software Engineering Course at Moringa S
 
 This is a personal portfolio website created by **Japheth Oruko**, to demonstrate competency in HTML and CSS. The website contains the following sections:
 
-- **About Me**: A brief introduction about who John Doe and his background as a Full Stack Developer.
-- **Portfolio**: A display of hypothetical projects John Doe has worked on.
-- **Skills**: A list of John Doe's technical proficiencies, including front-end and back-end development.
-- **Testimonials**: Feedback and reviews from hypothetical clients.
-- **Contact**: How to get in touch with John Doe.
+- **About Me**: A brief introduction about Japeth Oruko and his background as a Full Stack Developer.
+- **Portfolio**: A display of hypothetical projects Japeth Oruko has worked on.
+- **Skills**: A list of Japeth Oruko's technical proficiencies, including front-end and back-end development.
+- **Testimonials**: Feedback and reviews from clients.
+- **Contact**: How to get in touch with Japeth Oruko.
 
 The project is built using **HTML** and **CSS** to design and structure the website.
 
